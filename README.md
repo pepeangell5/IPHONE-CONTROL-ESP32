@@ -210,7 +210,7 @@ Modo rapido para grabar reels.
 - Al seleccionar una demo muestra cuenta regresiva 3, 2, 1 con pantalla `EN VIVO`.
 - `BACK` permite cancelar durante la cuenta regresiva antes de lanzar la demo.
 - Lanza WiFi Locator, WiFi Channels, BLE Radar, GPS SOS, Passcode Sim, HID Pad, iPhone Remote, Radio Scope o QR Text.
-- Muestra `@pepeangelll` como referencia visual dentro del launcher.
+- Muestra `@esp32_tools` como referencia visual dentro del launcher.
 
 ### SD VAULT
 
